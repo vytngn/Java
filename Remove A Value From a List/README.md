@@ -1,3 +1,5 @@
+Class name removeValue:
+
 + Main method: 
 - Prompt user to input numbers of intergers 
 - Add user input to the list
